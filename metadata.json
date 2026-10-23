@@ -1,0 +1,8 @@
+{
+  "name": "Elite Professional Looks Salon",
+  "description": "Premium hair, beauty, and grooming salon in Greater Noida. Transform your look with expert stylists, luxury hair coloring, facials, and personalized salon care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
